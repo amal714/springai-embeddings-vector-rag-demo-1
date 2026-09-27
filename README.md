@@ -298,10 +298,5 @@ curl "http://localhost:8080/vectorstore/inspect"
 
 ---
 
-## 📄 License
-
-Distributed under the **MIT License**. See `LICENSE` for details.
-
-```
 
 ```
